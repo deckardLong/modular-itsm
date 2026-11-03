@@ -3,6 +3,7 @@
 > Tất cả sơ đồ được vẽ bằng **draw.io trên web** (app.diagrams.net).
 > Tài liệu nêu: ranh giới hệ thống, loại sơ đồ và mục đích, người phụ trách, phụ thuộc giữa các thành viên, và cách cắt giảm nếu cần.
 > Cập nhật lần cuối: 30/10/2026
+> **Tham khảo sơ đồ kiến trúc tổng thể:** [images/architecture.png](images/architecture.png)
 
 ---
 
